@@ -2,7 +2,7 @@
 amady UI is a library for .net framework apps containing round buttons and more!
 I made it so you don't have to pay for GUNA or BUNIFU.
 
-You can use it howewer you want.
+You can use it however you want.
 
 List of controls:
 
